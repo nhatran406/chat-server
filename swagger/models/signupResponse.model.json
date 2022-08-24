@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "id": { "type": "integer" },
+    "firstName": { "type": "string" },
+    "lastName": { "type": "string" },
+    "token": { "type": "string" }
+  },
+  "example": {
+    "id": 1,
+    "firstName": "Nha",
+    "lastName": "Tran",
+    "token": "nhatran406@gmail.com"
+  }
+}
